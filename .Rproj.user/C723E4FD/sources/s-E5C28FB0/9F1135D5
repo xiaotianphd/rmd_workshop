@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607440816553.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9F1135D5",
+    "lastKnownWriteTime" : 1607452028,
+    "last_content_update" : 1607452028822,
+    "path" : "~/Desktop/Reproducible Research/rmd_workshop/workshop-example.rmd",
+    "project_path" : "workshop-example.rmd",
+    "properties" : {
+        "cursorPosition" : "13,247",
+        "scrollLine" : "15"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
